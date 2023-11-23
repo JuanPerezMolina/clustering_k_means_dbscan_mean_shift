@@ -14,7 +14,7 @@
 5. [FAQs](#faqs)
 ### General Info
 ***
-El objetivo de este proyecto es  la clusterización de un conjunto de datos referente al análisis de la personalidad de clientes de un dataset, tomar los datos y  realizar un pre procesamiento a los mismos para utilizar diversas técnicas de clusterización.
+El objetivo de este proyecto es  realizar un análisis comparativo de tres técnicas de clusterización: KMeans, DBSCAN y Mean Shift sobre un conjunto de datos referente al análisis de la personalidad de clientes con el fin de determinar cual técnica da la mejor configuración de clusters según los objetivos del negocio. Al final se tendrá una idea clara de las ventajas y desventajas de cada técnica y como escoger la técnica más apropiada según el caso al que se aplique.
 
 <b>Objetivos:</b> 
 - Conoce lo básico sobre análisis exploratorio
